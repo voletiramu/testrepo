@@ -1,5 +1,5 @@
 # testrepo
 
-### efiting the file
+### editing the file
 
 Its a markdown file in the directory
